@@ -1,5 +1,5 @@
 این پروژه با کمک chatGPT  و برای یادگیری نحوه ایجاد و استفاده از مدل های زبانی ساخته شده.
-**how to run: 
+how to run: 
 cd Quest
 
 uvicorn app:app --reload
