@@ -24,7 +24,9 @@ python questAI.py
 ________________________________
 #how to run:
 cd Quest
+
 uvicorn app:app --reload
 
 cd FormToExcel
+
 ng serve
